@@ -10,5 +10,6 @@ _Hello World!_
 ##### Some interests
   * [D Language Site](https://www.dlang.org)
   * [Python Site](https://www.python.org/)
-  * [Duff's Device, loops unrolling in C](https://en.wikipedia.org/wiki/Duff%27s_device)
+  * [Duff's Device, loop unrolling in C](https://en.wikipedia.org/wiki/Duff%27s_device "On Wikipedia")
+  * [D Template Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial/blob/master/D-templates-tutorial.html)
 
