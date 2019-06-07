@@ -10,4 +10,5 @@ _Hello World!_
 ##### Some interests
   * [D Language Site](https://www.dlang.org)
   * [Python Site](https://www.python.org/)
+  * [Duff's Device, loops unrolling in C](https://en.wikipedia.org/wiki/Duff%27s_device)
 
